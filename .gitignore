@@ -1,0 +1,20 @@
+# Backend - Mirror
+Mirror/node_modules/
+Mirror/build/
+Mirror/.env
+Mirror/npm-debug.log*
+Mirror/yarn-debug.log*
+Mirror/yarn-error.log*
+
+# Frontend - AI-Powered Mental Wellness App
+AI-Powered Mental Wellness App/node_modules/
+AI-Powered Mental Wellness App/build/
+AI-Powered Mental Wellness App/.next/   # if Next.js
+AI-Powered Mental Wellness App/.env
+AI-Powered Mental Wellness App/npm-debug.log*
+AI-Powered Mental Wellness App/yarn-debug.log*
+AI-Powered Mental Wellness App/yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
